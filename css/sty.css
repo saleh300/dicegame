@@ -1,0 +1,24 @@
+h1 {
+
+  font-size: 8rem ;
+  color: #4ECCA3;
+  font-weight: bold;
+}
+body{
+  background-color: #393E46;
+}
+p {
+  font-size: 2rem ;
+  color: #4ECCA3;
+  font-family: cursive;
+}
+.continer {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+
+}
+.dice {
+  text-align: center;
+  display: inline-block;
+}
